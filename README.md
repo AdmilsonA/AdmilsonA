@@ -8,6 +8,7 @@ Eu sou Admilson De Almeida Ferreira,aluno de FrontEnd no Senai De Jandira;
         Aulas de CSS.
         Auls de Javascript.       
 <br>
+
 Minhas redes:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AdmilsonA)](https://github.com/AdmilsonA)
@@ -16,9 +17,10 @@ Minhas estaticas:
 
 [![AdmilsonA GitHub stats](https://github-readme-stats.vercel.app/api?username=AdmilsonA&theme=merko)](https://github.com/AdmilsonA/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdmilsonA&layout=compact)](https://github.com/AdmilsonA/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdmilsonA&layout=pie)](https://github.com/AdmilsonA/github-readme-stats)
 
 <hr>
+
 
 Minhas principais linguagens:
 
