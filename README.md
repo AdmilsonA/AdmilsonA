@@ -14,7 +14,7 @@ Minhas redes:
 
 Minhas estaticas:
 
-[![AdmilsonA GitHub stats](https://github-readme-stats.vercel.app/api?username=AdmilsonA)](https://github.com/AdmilsonA/github-readme-stats)
+[![AdmilsonA GitHub stats](https://github-readme-stats.vercel.app/api?username=AdmilsonA&theme=merko)](https://github.com/AdmilsonA/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdmilsonA&layout=compact)](https://github.com/AdmilsonA/github-readme-stats)
 
